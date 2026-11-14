@@ -1,0 +1,18 @@
+{
+ "slate_date": "2026-11-13",
+ "package_version": "v1",
+ "date_label": "Friday 13 November 2026, US games",
+ "base": "https://gocarisrael-hub.github.io/nba-slides/2026-11-13/v1",
+ "slides": [
+  "01_UTA_HOU.jpg",
+  "02_OKC_LAC.jpg",
+  "03_CLE_MIA.jpg",
+  "04_ATL_CHI.jpg",
+  "05_POR_SAC.jpg",
+  "06_MIL_ORL.jpg",
+  "07_NYK_IND.jpg",
+  "08_MEM_NOP.jpg",
+  "09_GSW_SAS.jpg"
+ ],
+ "caption": "caption.txt"
+}
