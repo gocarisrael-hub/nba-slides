@@ -1,0 +1,187 @@
+{
+ "slate_date": "2026-11-16",
+ "date_label": "Monday 16 November 2026, US games",
+ "n_games": 8,
+ "layout": "detailed",
+ "scorer_version": "v0.3.0",
+ "registry_version": "2026-27-r4",
+ "package_version": "v1",
+ "items": [
+  {
+   "position": 1,
+   "away": {
+    "tricode": "PHI",
+    "nickname": "76ers",
+    "asset_id": "phi_tyrese_maxey",
+    "sprite": "assets/sprites_user/phi_tyrese_maxey.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "BKN",
+    "nickname": "Nets",
+    "asset_id": "bkn_michael_porter_jr",
+    "sprite": "assets/sprites_user/bkn_michael_porter_jr.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "01_PHI_BKN.png",
+   "competitiveness_stars": 2,
+   "quality_stars": 5,
+   "individual_stars": 4
+  },
+  {
+   "position": 2,
+   "away": {
+    "tricode": "ORL",
+    "nickname": "Magic",
+    "asset_id": "orl_paolo_banchero",
+    "sprite": "assets/sprites_user/orl_paolo_banchero.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "BOS",
+    "nickname": "Celtics",
+    "asset_id": "bos_tatum",
+    "sprite": "assets/sprites_user/bos_tatum.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "02_ORL_BOS.png",
+   "competitiveness_stars": 4,
+   "quality_stars": 4,
+   "individual_stars": 3
+  },
+  {
+   "position": 3,
+   "away": {
+    "tricode": "MEM",
+    "nickname": "Grizzlies",
+    "asset_id": "mem_cameron_boozer",
+    "sprite": "assets/sprites_user/mem_cameron_boozer.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "WAS",
+    "nickname": "Wizards",
+    "asset_id": "was_trae",
+    "sprite": "assets/sprites_user/was_trae.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "03_MEM_WAS.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 5,
+   "individual_stars": 1
+  },
+  {
+   "position": 4,
+   "away": {
+    "tricode": "HOU",
+    "nickname": "Rockets",
+    "asset_id": "hou_kevin_durant",
+    "sprite": "assets/sprites_user/hou_kevin_durant.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "MIA",
+    "nickname": "Heat",
+    "asset_id": "mia_giannis_antetokounmpo",
+    "sprite": "assets/sprites_user/mia_giannis_antetokounmpo.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "04_HOU_MIA.png",
+   "competitiveness_stars": 1,
+   "quality_stars": 5,
+   "individual_stars": 3
+  },
+  {
+   "position": 5,
+   "away": {
+    "tricode": "CHI",
+    "nickname": "Bulls",
+    "asset_id": "chi_josh_giddey",
+    "sprite": "assets/sprites_user/chi_josh_giddey.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "CLE",
+    "nickname": "Cavaliers",
+    "asset_id": "cle_donovan_mitchell",
+    "sprite": "assets/sprites_user/cle_donovan_mitchell.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "05_CHI_CLE.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 3,
+   "individual_stars": 3
+  },
+  {
+   "position": 6,
+   "away": {
+    "tricode": "POR",
+    "nickname": "Trail Blazers",
+    "asset_id": "por_avdija",
+    "sprite": "assets/sprites_user/por_avdija.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "MIN",
+    "nickname": "Timberwolves",
+    "asset_id": "min_anthony_edwards",
+    "sprite": "assets/sprites_user/min_anthony_edwards.png",
+    "label": null
+   },
+   "overall_stars": 2,
+   "filename": "06_POR_MIN.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 2,
+   "individual_stars": 3
+  },
+  {
+   "position": 7,
+   "away": {
+    "tricode": "PHX",
+    "nickname": "Suns",
+    "asset_id": "phx_devin_booker",
+    "sprite": "assets/sprites_user/phx_devin_booker.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "DEN",
+    "nickname": "Nuggets",
+    "asset_id": "den_jokic",
+    "sprite": "assets/sprites_user/den_jokic.png",
+    "label": null
+   },
+   "overall_stars": 2,
+   "filename": "07_PHX_DEN.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 2,
+   "individual_stars": 2
+  },
+  {
+   "position": 8,
+   "away": {
+    "tricode": "GSW",
+    "nickname": "Warriors",
+    "asset_id": "gsw_curry",
+    "sprite": "assets/sprites_user/gsw_curry.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "NOP",
+    "nickname": "Pelicans",
+    "asset_id": "nop_zion_williamson",
+    "sprite": "assets/sprites_user/nop_zion_williamson.png",
+    "label": null
+   },
+   "overall_stars": 1,
+   "filename": "08_GSW_NOP.png",
+   "competitiveness_stars": 1,
+   "quality_stars": 2,
+   "individual_stars": 2
+  }
+ ]
+}
