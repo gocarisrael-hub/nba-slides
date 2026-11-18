@@ -1,0 +1,121 @@
+{
+ "slate_date": "2026-11-17",
+ "date_label": "Tuesday 17 November 2026, US games",
+ "n_games": 5,
+ "layout": "detailed",
+ "scorer_version": "v0.3.0",
+ "registry_version": "2026-27-r4",
+ "package_version": "v1",
+ "items": [
+  {
+   "position": 1,
+   "away": {
+    "tricode": "NYK",
+    "nickname": "Knicks",
+    "asset_id": "nyk_jalen_brunson",
+    "sprite": "assets/sprites_user/nyk_jalen_brunson.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "TOR",
+    "nickname": "Raptors",
+    "asset_id": "tor_scottie_barnes",
+    "sprite": "assets/sprites_user/tor_scottie_barnes.png",
+    "label": null
+   },
+   "overall_stars": 5,
+   "filename": "01_NYK_TOR.png",
+   "competitiveness_stars": 5,
+   "quality_stars": 5,
+   "individual_stars": 4
+  },
+  {
+   "position": 2,
+   "away": {
+    "tricode": "CHA",
+    "nickname": "Hornets",
+    "asset_id": "cha_brandon_miller",
+    "sprite": "assets/sprites_user/cha_brandon_miller.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "LAL",
+    "nickname": "Lakers",
+    "asset_id": "lal_luka_doncic",
+    "sprite": "assets/sprites_user/lal_luka_doncic.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "02_CHA_LAL.png",
+   "competitiveness_stars": 5,
+   "quality_stars": 2,
+   "individual_stars": 5
+  },
+  {
+   "position": 3,
+   "away": {
+    "tricode": "UTA",
+    "nickname": "Jazz",
+    "asset_id": "uta_lauri_markkanen",
+    "sprite": "assets/sprites_user/uta_lauri_markkanen.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "LAC",
+    "nickname": "Clippers",
+    "asset_id": "lac_brandon_ingram",
+    "sprite": "assets/sprites_user/lac_brandon_ingram.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "03_UTA_LAC.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 5,
+   "individual_stars": 4
+  },
+  {
+   "position": 4,
+   "away": {
+    "tricode": "POR",
+    "nickname": "Trail Blazers",
+    "asset_id": "por_avdija",
+    "sprite": "assets/sprites_user/por_avdija.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "MIN",
+    "nickname": "Timberwolves",
+    "asset_id": "min_anthony_edwards",
+    "sprite": "assets/sprites_user/min_anthony_edwards.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "04_POR_MIN.png",
+   "competitiveness_stars": 5,
+   "quality_stars": 1,
+   "individual_stars": 2
+  },
+  {
+   "position": 5,
+   "away": {
+    "tricode": "DET",
+    "nickname": "Pistons",
+    "asset_id": "det_cade_cunningham",
+    "sprite": "assets/sprites_user/det_cade_cunningham.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "SAS",
+    "nickname": "Spurs",
+    "asset_id": "sas_wembanyama",
+    "sprite": "assets/sprites_user/sas_wembanyama.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "05_DET_SAS.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 3,
+   "individual_stars": 3
+  }
+ ]
+}
