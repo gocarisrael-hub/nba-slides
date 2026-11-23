@@ -1,15 +1,16 @@
 {
- "slate_date": "2026-11-21",
+ "slate_date": "2026-11-22",
  "package_version": "v1",
- "date_label": "Saturday 21 November 2026, US games",
- "base": "https://gocarisrael-hub.github.io/nba-slides/2026-11-21/v1",
+ "date_label": "Sunday 22 November 2026, US games",
+ "base": "https://gocarisrael-hub.github.io/nba-slides/2026-11-22/v1",
  "slides": [
-  "01_MIL_PHI.jpg",
-  "02_BOS_SAC.jpg",
-  "03_POR_NYK.jpg",
-  "04_NOP_SAS.jpg",
-  "05_LAC_DAL.jpg",
-  "06_MEM_MIN.jpg"
+  "01_DEN_CHI.jpg",
+  "02_BOS_GSW.jpg",
+  "03_IND_NYK.jpg",
+  "04_OKC_MIA.jpg",
+  "05_DAL_UTA.jpg",
+  "06_DET_ATL.jpg",
+  "07_ORL_WAS.jpg"
  ],
  "caption": "caption.txt"
 }
