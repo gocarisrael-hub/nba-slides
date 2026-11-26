@@ -1,0 +1,209 @@
+{
+ "slate_date": "2026-11-25",
+ "date_label": "Wednesday 25 November 2026, US games",
+ "n_games": 9,
+ "layout": "detailed",
+ "scorer_version": "v0.3.0",
+ "registry_version": "2026-27-r4",
+ "package_version": "v1",
+ "items": [
+  {
+   "position": 1,
+   "away": {
+    "tricode": "SAS",
+    "nickname": "Spurs",
+    "asset_id": "sas_wembanyama",
+    "sprite": "assets/sprites_user/sas_wembanyama.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "POR",
+    "nickname": "Trail Blazers",
+    "asset_id": "por_avdija",
+    "sprite": "assets/sprites_user/por_avdija.png",
+    "label": null
+   },
+   "overall_stars": 5,
+   "filename": "01_SAS_POR.png",
+   "competitiveness_stars": 5,
+   "quality_stars": 4,
+   "individual_stars": 5
+  },
+  {
+   "position": 2,
+   "away": {
+    "tricode": "CHI",
+    "nickname": "Bulls",
+    "asset_id": "chi_josh_giddey",
+    "sprite": "assets/sprites_user/chi_josh_giddey.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "CHA",
+    "nickname": "Hornets",
+    "asset_id": "cha_brandon_miller",
+    "sprite": "assets/sprites_user/cha_brandon_miller.png",
+    "label": null
+   },
+   "overall_stars": 5,
+   "filename": "02_CHI_CHA.png",
+   "competitiveness_stars": 5,
+   "quality_stars": 4,
+   "individual_stars": 3
+  },
+  {
+   "position": 3,
+   "away": {
+    "tricode": "MIN",
+    "nickname": "Timberwolves",
+    "asset_id": "min_anthony_edwards",
+    "sprite": "assets/sprites_user/min_anthony_edwards.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "OKC",
+    "nickname": "Thunder",
+    "asset_id": "okc_shai_gilgeous_alexander",
+    "sprite": "assets/sprites_user/okc_shai_gilgeous_alexander.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "03_MIN_OKC.png",
+   "competitiveness_stars": 4,
+   "quality_stars": 3,
+   "individual_stars": 5
+  },
+  {
+   "position": 4,
+   "away": {
+    "tricode": "PHX",
+    "nickname": "Suns",
+    "asset_id": "phx_devin_booker",
+    "sprite": "assets/sprites_user/phx_devin_booker.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "HOU",
+    "nickname": "Rockets",
+    "asset_id": "hou_kevin_durant",
+    "sprite": "assets/sprites_user/hou_kevin_durant.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "04_PHX_HOU.png",
+   "competitiveness_stars": 4,
+   "quality_stars": 4,
+   "individual_stars": 3
+  },
+  {
+   "position": 5,
+   "away": {
+    "tricode": "MIA",
+    "nickname": "Heat",
+    "asset_id": "mia_giannis_antetokounmpo",
+    "sprite": "assets/sprites_user/mia_giannis_antetokounmpo.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "PHI",
+    "nickname": "76ers",
+    "asset_id": "phi_tyrese_maxey",
+    "sprite": "assets/sprites_user/phi_tyrese_maxey.png",
+    "label": null
+   },
+   "overall_stars": 4,
+   "filename": "05_MIA_PHI.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 4,
+   "individual_stars": 4
+  },
+  {
+   "position": 6,
+   "away": {
+    "tricode": "CLE",
+    "nickname": "Cavaliers",
+    "asset_id": "cle_donovan_mitchell",
+    "sprite": "assets/sprites_user/cle_donovan_mitchell.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "NYK",
+    "nickname": "Knicks",
+    "asset_id": "nyk_jalen_brunson",
+    "sprite": "assets/sprites_user/nyk_jalen_brunson.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "06_CLE_NYK.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 4,
+   "individual_stars": 3
+  },
+  {
+   "position": 7,
+   "away": {
+    "tricode": "SAC",
+    "nickname": "Kings",
+    "asset_id": "sac_domantas_sabonis",
+    "sprite": "assets/sprites_user/sac_domantas_sabonis.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "GSW",
+    "nickname": "Warriors",
+    "asset_id": "gsw_curry",
+    "sprite": "assets/sprites_user/gsw_curry.png",
+    "label": null
+   },
+   "overall_stars": 3,
+   "filename": "07_SAC_GSW.png",
+   "competitiveness_stars": 2,
+   "quality_stars": 4,
+   "individual_stars": 3
+  },
+  {
+   "position": 8,
+   "away": {
+    "tricode": "BKN",
+    "nickname": "Nets",
+    "asset_id": "bkn_michael_porter_jr",
+    "sprite": "assets/sprites_user/bkn_michael_porter_jr.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "MIL",
+    "nickname": "Bucks",
+    "asset_id": "mil_tyler_herro",
+    "sprite": "assets/sprites_user/mil_tyler_herro.png",
+    "label": null
+   },
+   "overall_stars": 2,
+   "filename": "08_BKN_MIL.png",
+   "competitiveness_stars": 3,
+   "quality_stars": 2,
+   "individual_stars": 2
+  },
+  {
+   "position": 9,
+   "away": {
+    "tricode": "LAC",
+    "nickname": "Clippers",
+    "asset_id": "lac_brandon_ingram",
+    "sprite": "assets/sprites_user/lac_brandon_ingram.png",
+    "label": null
+   },
+   "home": {
+    "tricode": "MEM",
+    "nickname": "Grizzlies",
+    "asset_id": "mem_cameron_boozer",
+    "sprite": "assets/sprites_user/mem_cameron_boozer.png",
+    "label": null
+   },
+   "overall_stars": 1,
+   "filename": "09_LAC_MEM.png",
+   "competitiveness_stars": 2,
+   "quality_stars": 2,
+   "individual_stars": 2
+  }
+ ]
+}
